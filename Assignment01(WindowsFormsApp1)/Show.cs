@@ -46,5 +46,10 @@ namespace Assignment01_WindowsFormsApp1_
             form.Close();
             this.Dispose();
         }
+
+        private void name_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
